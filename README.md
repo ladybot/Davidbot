@@ -1,2 +1,3 @@
 # Davidbot
-davidbot test
+hello!
+welcome to nsfw friendo! be careful!
